@@ -1,0 +1,4 @@
+repository "MireaPr@Parker_Game_Studios@cloud"
+  path "/"
+    br "/main"
+    co "/main"
